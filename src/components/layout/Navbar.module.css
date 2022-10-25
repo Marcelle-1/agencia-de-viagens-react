@@ -21,11 +21,11 @@ img {
 }
 
 .item a {
-    color: #fff;
+    
     text-decoration: none;
 
 }
 
 .item a:hover {
-    color: #ffbb33;
+    color: #44d0e2;
 }

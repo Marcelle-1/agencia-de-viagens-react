@@ -1,11 +1,11 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import Home from './components/pages/Home';
 import Navbar from './components/layout/Navbar';
 import Footer from './components/layout/Footer';
 
 
-import {BrowserRouter as Router, Routes, Route, Link} from 'react-router-dom'
+import {BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Contato from './components/pages/Contato';
 import Destinos from './components/pages/Destinos';
 import Login from './components/pages/Login';
